@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="principal">
+    <file>estadistica.png</file>
+  </qresource>
+</RCC>

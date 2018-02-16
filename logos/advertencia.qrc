@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="advertencia">
+    <file>220px-Achtung.svg.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,31 @@
+def reiniciar_valores(self):
+    self.n = len(self.lista)
+    for i in range(self.n):
+        self.lista.pop()
+    self.n = len(self.lista)
+    self.maximo = 0
+    self.porciento = 0
+
+    self.n_datos.clear()
+    self.insertar_text.clear()
+    self.datos_text.clear()
+    self.media_text.clear()
+    self.mediana_text.clear()
+    self.moda_text.clear()
+    self.rangoM_text.clear()
+    self.varianza_text.clear()
+    self.desviacion_text.clear()
+    self.intervalos_text.clear()
+    self.rango_text.clear()
+    self.amplitud_text.clear()
+    self.intervalo1_text.clear()
+    self.intervalo2_text.clear()
+    self.fa_text.clear()
+    self.faa_text.clear()
+    self.fr_text.clear()
+    self.fra_text.clear()
+    self.ma_text.clear()
+    self.curtosis_text.clear()
+    self.simetria_text.clear()
+    self.mediaR_text.clear()
+    self.porcentaje_text.clear() 
